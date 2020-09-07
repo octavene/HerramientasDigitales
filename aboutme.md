@@ -12,10 +12,7 @@ Hola, mi nombre es _Octavio Venegas_
 
 ### Domicilio
 
->  Paseo de las Scanias 269
->  Real Bugambilias
->  Villa de Alvarez, Colima.
->  Cp. 28979
+>  Paseo de las Scanias 269  Real Bugambilias  Villa de Alvarez, Colima.  Cp. 28979
 
 
 ### Nacionalidad
