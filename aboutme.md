@@ -11,8 +11,10 @@ Hola, mi nombre es _Octavio Venegas_
   ### Nombre
   > Jesús Octavio Venegas Avalos
   ### Domicilio
-  >  Paseo de las Scanias 269  Real Bugambilias  Villa de Alvarez, Colima.  Cp. 28979
-  > una 
+  >  Paseo de las Scanias 269     
+  >  Real Bugambilias     
+  >  Villa de Alvarez, Colima.    
+  >  28979
   ### Nacionalidad
   >  Mexicana
   
