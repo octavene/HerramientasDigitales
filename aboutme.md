@@ -18,8 +18,8 @@ Hola, mi nombre es _Octavio Venegas_
   ### Nacionalidad
   >  Mexicana
   ### Datos de Conctacto
-  [Correo](octavio.venegas@lamnarina.com.mx)
-  Teléfono  312-155-4004
+  Correo  : octavio.venegas@lamnarina.com.mx    
+  Teléfono: 312-155-4004
   
   
 
