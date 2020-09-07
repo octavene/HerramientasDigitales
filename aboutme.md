@@ -54,7 +54,7 @@ Hola, mi nombre es _Octavio Venegas_
 
 ## Datos Empresa actual:
 
- [Página Tienda Departamental] (https://www.lamarina.com.mx/)
+ [Página Tienda Departamental](https://www.lamarina.com.mx/)
  
 
 
