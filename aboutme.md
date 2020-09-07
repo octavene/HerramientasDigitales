@@ -54,7 +54,18 @@ Hola, mi nombre es _Octavio Venegas_
 
 ## Datos Empresa actual:
 
- [Página Tienda Departamental](https://www.lamarina.com.mx/)
+_Bodesa S.A.P.I. de C.V._
+_Av. María Ahumada #1200_
+_Villa de Alvarez, Colima._
+
+`Páginas Web`
+
+ [La Marina Tiendas departamentales](https://www.lamarina.com.mx/)   
+ 
+ [El Bodegón Mueblerías](https://www.elbodegon.com.mx/)   
+ 
+ 
+ 
  
 
 
