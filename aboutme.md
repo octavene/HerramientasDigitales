@@ -60,9 +60,9 @@ _Villa de Alvarez, Colima._
 
 `Páginas Web`
 
- [La Marina Tiendas departamentales](https://www.lamarina.com.mx/)   
+ Tienda Departamental LA MARINA, [Haz click aquí...](https://www.lamarina.com.mx/)   
  
- [El Bodegón Mueblerías](https://www.elbodegon.com.mx/)   
+ Mueblerías El Bodegón [Haz click aquí...](https://www.elbodegon.com.mx/)   
  
  
  
