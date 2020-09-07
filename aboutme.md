@@ -12,18 +12,21 @@ Hola, mi nombre es _Octavio Venegas_
   > Jesús Octavio Venegas Avalos
   ### Domicilio
   >  Paseo de las Scanias 269  Real Bugambilias  Villa de Alvarez, Colima.  Cp. 28979
+  > una 
   ### Nacionalidad
   >  Mexicana
+  
 
 ## Formación Profesional
   > Ing. en Sistemas Computacionales
+  > Institututo Tecnológico de Colima
 
 ## Habilidades / Cursos
   ### Sistemas operativos
   - OS/400
   - Windows
   ### Base de Datos
-  - DB2
+  - DB2 AS/400
   - SQL
   ### Lenguajes de Programación
   - Visual Basic
@@ -31,7 +34,8 @@ Hola, mi nombre es _Octavio Venegas_
   - Cobol IBM
   - ABAP
   ### Cursos especiales
-  - SAP
+  - SAP/MM
+  
   
 ## Experiencia Laboral
 
