@@ -62,7 +62,7 @@ _Villa de Alvarez, Colima._
 
  Tienda Departamental LA MARINA, [Haz click aquí...](https://www.lamarina.com.mx/)   
  
- Mueblerías El Bodegón [Haz click aquí...](https://www.elbodegon.com.mx/)   
+ Mueblerías EL BODEGON [Haz click aquí...](https://www.elbodegon.com.mx/)   
  
  
  
