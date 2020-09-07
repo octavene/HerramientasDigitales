@@ -52,6 +52,9 @@ Hola, mi nombre es _Octavio Venegas_
 |2001-2003 | Jefatura de Sistemas | Bodesa S.A.P.I. de C.V. |
 |1993-2001 | Analista programador | Bodesa S.A.P.I. de C.V. |
 
+## Datos Empresa actual:
+
+ [Página Tienda Departamental] https://www.lamarina.com.mx/
 
 
 
