@@ -25,12 +25,17 @@ Hola, mi nombre es _Octavio Venegas_
 - DB2
 - SQL
 ## Cursos especiales
+
 ## Experiencia Laboral
+
 | Año | Puesto | Empresa |
+|-----|--------|---------|
 |2010-Actual | Gerente de Desarrollo | Bodesa S.A.P.I. de C.V. |
 |2003-2010 | Gerente de Inventarios| Bodesa S.A.P.I. de C.V. |
 |2001-2003 | Jefatura de Sistemas | Bodesa S.A.P.I. de C.V. |
 |1993-2001 | Analista programador | Bodesa S.A.P.I. de C.V. |
+
+
 
 
 
