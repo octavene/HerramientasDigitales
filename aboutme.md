@@ -2,7 +2,8 @@
 
 Hola, mi nombre es _Octavio Venegas_
 
-![Foto personal]()
+![](https://raw.githubusercontent.com/octavene/HerramientasDigitales/master/FotoOctavio.jpg)
+
 
 ## Habilidades
 
