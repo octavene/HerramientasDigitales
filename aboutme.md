@@ -43,7 +43,7 @@ Hola, mi nombre es _Octavio Venegas_
   - C#
   - Cobol IBM
   - ABAP
-  ### Cursos especiales
+  ### ERP 
   - SAP/MM
   
   
