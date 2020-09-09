@@ -6,7 +6,7 @@
 Hola, mi nombre es _Octavio Venegas_   
 
 
-## Datos Personales
+## Datos Personales  
 
   ### Nombre
   > Jesús Octavio Venegas Avalos
