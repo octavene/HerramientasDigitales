@@ -62,11 +62,11 @@ _Bodesa S.A.P.I. de C.V._
 _Av. María Ahumada #1200_
 _Villa de Alvarez, Colima._
 
-`Páginas Web`
+`PAGINAS WEB:`
 
- Tienda Departamental LA MARINA, [Haz click aquí...](https://www.lamarina.com.mx/)   
+ LA MARINA, Tienda departamental [Haz click aquí...](https://www.lamarina.com.mx/)   
  
- Mueblerías EL BODEGON [Haz click aquí...](https://www.elbodegon.com.mx/)   
+ EL BODEGON, Mueblerías [Haz click aquí...](https://www.elbodegon.com.mx/)   
  
  
  
