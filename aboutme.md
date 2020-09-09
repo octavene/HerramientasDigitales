@@ -24,10 +24,10 @@ Hola, mi nombre es _Octavio Venegas_
   
 
 ## Formación Profesional
-  > Ing. en Sistemas Computacionales  
+  > _Ing. en Sistemas Computacionales_  
   > Institututo Tecnológico de Colima  
   >  
-  > Especialidad en Dirección de Operaciones  
+  > _Especialidad en Dirección de Operaciones_  
   > Universidad Panamericana  
   
 
