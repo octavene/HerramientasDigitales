@@ -49,7 +49,7 @@ Hola, mi nombre es _Octavio Venegas_
   
 ## Experiencia Laboral
 
-| Año | Puesto | Empresa |
+| **Año** | **Puesto** | **Empresa** |
 |-----|--------|---------|
 |2010-Actual | Gerente de Desarrollo | Bodesa S.A.P.I. de C.V. |
 |2003-2010 | Gerente de Inventarios| Bodesa S.A.P.I. de C.V. |
