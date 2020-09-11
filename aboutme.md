@@ -37,12 +37,12 @@ Hola, mi nombre es _Octavio Venegas_
   - Windows
   ### Base de Datos
   - DB2 AS/400
-  - SQL
+  - SQL 
   ### Lenguajes de Programación
   - Visual Basic
   - C#
   - Cobol IBM
-  - ABAP
+  - ABAP SAP
   ### ERP 
   - SAP/MM
   
